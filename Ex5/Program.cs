@@ -18,6 +18,7 @@ namespace Ex5
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //Teste
+            //Novo Teste
         }
     }
 }
